@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/carlos/learn/dotnet_graphQL/dotnet_graphQL.csproj",
+    "projectUniqueName": "/Users/cadu/learn/dotnet_graphql/dotnet_graphQL.csproj",
     "projectName": "dotnet_graphQL",
-    "projectPath": "/home/carlos/learn/dotnet_graphQL/dotnet_graphQL.csproj",
-    "outputPath": "/home/carlos/learn/dotnet_graphQL/obj/",
+    "projectPath": "/Users/cadu/learn/dotnet_graphql/dotnet_graphQL.csproj",
+    "outputPath": "/Users/cadu/learn/dotnet_graphql/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"

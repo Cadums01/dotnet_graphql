@@ -12,3 +12,17 @@
 /home/carlos/learn/dotnet_graphQL/obj/Debug/netcoreapp2.1/dotnet_graphQL.RazorTargetAssemblyInfo.cache
 /home/carlos/learn/dotnet_graphQL/obj/Debug/netcoreapp2.1/dotnet_graphQL.dll
 /home/carlos/learn/dotnet_graphQL/obj/Debug/netcoreapp2.1/dotnet_graphQL.pdb
+/Users/cadu/learn/dotnet_graphql/bin/Debug/netcoreapp2.1/dotnet_graphQL.deps.json
+/Users/cadu/learn/dotnet_graphql/bin/Debug/netcoreapp2.1/dotnet_graphQL.runtimeconfig.json
+/Users/cadu/learn/dotnet_graphql/bin/Debug/netcoreapp2.1/dotnet_graphQL.runtimeconfig.dev.json
+/Users/cadu/learn/dotnet_graphql/bin/Debug/netcoreapp2.1/dotnet_graphQL.dll
+/Users/cadu/learn/dotnet_graphql/bin/Debug/netcoreapp2.1/dotnet_graphQL.pdb
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.csprojAssemblyReference.cache
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.csproj.CoreCompileInputs.cache
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.RazorAssemblyInfo.cache
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.RazorAssemblyInfo.cs
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.AssemblyInfoInputs.cache
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.AssemblyInfo.cs
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.RazorTargetAssemblyInfo.cache
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.dll
+/Users/cadu/learn/dotnet_graphql/obj/Debug/netcoreapp2.1/dotnet_graphQL.pdb
